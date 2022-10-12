@@ -7,3 +7,4 @@ first line of my program
 more lines
 MOOREE LINEES
 final line
+Polina Chistyakova - polina_love_sun@mail.ru
